@@ -1,0 +1,19 @@
+body{
+    background-color:pink;
+}
+
+
+.welcome-page{
+    color: white;
+    background-color: plum;
+    font-style: italic;
+}
+
+.big-text{
+    font-size: 40px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.description{
+    color: pink;
+}
